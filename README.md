@@ -1,2 +1,2 @@
 # DSP
-Digital Signal Processing codes
+MATLAB scripts developed for the course of Digital Signal Processing.
